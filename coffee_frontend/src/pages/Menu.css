@@ -1,0 +1,6 @@
+.menu-page h1 {
+  font-family: var(--font-heading);
+  text-align: center;
+  color: #4b2e2e;
+  margin-bottom: 2rem;
+}

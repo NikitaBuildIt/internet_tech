@@ -1,0 +1,1 @@
+# CoffeeTime Django project
